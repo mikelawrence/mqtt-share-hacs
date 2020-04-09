@@ -2,7 +2,7 @@
 
 ## 2.0.0 - HACS compatible
 
-* Separate repository.
+* Now a separate repository.
 * Supports HACS manual install.
 
 ## 1.0.0 - Initial Release
