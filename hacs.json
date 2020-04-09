@@ -1,0 +1,10 @@
+{
+  "name": "MQTT Share",
+  "render_readme": true,
+  "domains": [
+    "fan",
+    "light",
+    "binary_sensor",
+    "sensor"
+  ]
+}

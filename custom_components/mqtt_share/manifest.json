@@ -1,0 +1,13 @@
+{
+    "domain": "mqtt_share",
+    "name": "MQTT Share",
+    "documentation": "https://github.com/mikelawrence/mqtt-share-hacs",
+    "requirements": [],
+    "ssdp": [],
+    "zeroconf": [],
+    "homekit": {},
+    "dependencies": ["mqtt"],
+    "codeowners": [
+        "@mikelawrence"
+    ]
+}
